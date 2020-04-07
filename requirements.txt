@@ -9,7 +9,7 @@ Babel==2.8.0
 backcall==0.1.0
 bcrypt==3.1.7
 beautifulsoup4==4.8.2
-bleach==3.1.1
+bleach==3.1.4
 boto3==1.12.26
 botocore==1.15.26
 bullet==2.1.0
